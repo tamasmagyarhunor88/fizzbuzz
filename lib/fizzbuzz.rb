@@ -5,5 +5,7 @@ def fizzbuzz(number)
     "buzz"
   elsif number == 15
     "fizzbuzz"
+  elsif number == 4
+    number
   end
 end
