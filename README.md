@@ -1,4 +1,6 @@
-# fizzbuz
+# fizzbuzz
+
+The goal of FizzBuzz is to introduce future developers to Test Driver Development (TDD) and Pair Programming.
 
 FizzBuzz is a simple coding challenge, often described as a code cata. The objective of FizzBuzz is to create a program with the following specification:
 
